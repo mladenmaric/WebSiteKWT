@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+    <category>
+        <name>COOKING</name>
+        <book>
+            <title>Everyday Italian</title>
+            <author>Giada De Laurentiis</author>
+            <year>2005</year>
+            <price>30.00</price>
+            <sold>1000</sold>
+            <cover>cat1book1.jpg</cover>
+            <description>
+                Everyday Italian is a Food Network show hosted by Giada De Laurentiis. 
+                In the show, De Laurentiis focuses for her viewers on traditional Italian cuisine with an American flair, 
+                such as herb-crusted lamb and chocolate-ricotta pie.
+            </description>
+	</book>
+        <book>
+            <title>The Joy of Cooking</title>
+            <author>Irma S. Rombauer</author>
+            <author>Marion Rombauer Becker</author>
+            <author>Ethan Becker</author>
+            <year>1997</year>
+            <price>50.00</price>
+            <sold>2000</sold>
+            <cover>cat1book2.jpg</cover>
+            <description>
+                Since its original publication, Joy of Cooking has been the most authoritative cookbook in America, 
+                the one upon which millions of cooks have confidently relied for more than sixty-five years. 
+                It's the book your grandmother and mother probably learned to cook from, 
+                the book you gave your sister when she got married. 
+                This, the first revision in more than twenty years, is better than ever. 
+                Here's why: Every chapter has been rethought with an emphasis on freshness, convenience, and health.
+            </description>
+        </book>
+        <book>
+            <title>How to Cook Everything</title>
+            <author> Mark Bittman</author>
+            <year>1998</year>
+            <price>39.99</price>
+            <sold>1500</sold>
+            <cover>cat1book3.jpg</cover>
+            <description>
+                Here's the breakthrough one-stop cooking reference for today's generation of cooks! 
+                Nationally known cooking authority Mark Bittman shows you how to prepare great food 
+                for all occasions using simple techniques, fresh ingredients, and basic kitchen equipment. 
+                Just as important, How to Cook Everything takes a relaxed, straightforward approach to cooking, 
+                so you can enjoy yourself in the kitchen and still achieve outstanding results.
+            </description>
+        </book>
+    </category>
+    <category>
+        <name>CHILDREN</name>
+        <book>
+            <title>Harry Potter</title>
+            <author>J K. Rowling</author>
+            <year>2005</year>
+            <sold>3000</sold>
+            <price>29.99</price>
+            <cover>cat2book1.jpg</cover>
+            <description>
+                Harry Potter is a series of fantasy novels written by British author J. K. Rowling. 
+                The novels chronicle the life of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley, 
+                all of whom are students at Hogwarts School of Witchcraft and Wizardry. 
+                The main story arc concerns Harry's struggle against Lord Voldemort, 
+                the Dark wizard who intends to become immortal, overthrow the Ministry of Magic, 
+                subjugate non-magic people and destroy anyone who stands in his way.
+            </description>
+	</book>
+        <book>
+            <title>Charlotte's Web</title>
+            <author>E. B. White</author>
+            <year>1952</year>
+            <price>45.00</price>
+            <sold>500</sold>
+            <cover>cat2book2.png</cover>
+            <description>
+                Charlotte's Web is a children's novel by American author E. B. 
+                White and illustrated by Garth Williams; it was published in October 15, 1952, by Harper Brothers. 
+                The novel tells the story of a pig named Wilbur and his friendship with a barn spider named Charlotte. 
+                When Wilbur is in danger of being slaughtered by the farmer, Charlotte writes messages praising Wilbur 
+                (such as "Some Pig") in her web in order to persuade the farmer to let him live.
+            </description>
+        </book>
+        <book>
+            <title>The Hobbit</title>
+            <author>J. R. R. Tolkie</author>
+            <year>1937</year>
+            <price>55.00</price>
+            <cover>cat2book3.jpg</cover>
+            <sold>2500</sold>
+            <description>
+                The Hobbit, or There and Back Again is a children's fantasy novel by English author J. R. R. Tolkien. 
+                It was published on 21 September 1937 to wide critical acclaim, being nominated for the Carnegie Medal
+                and awarded a prize from the New York Herald Tribune for best juvenile fiction. 
+                The book remains popular and is recognized as a classic in children's literature.
+            </description>
+        </book>
+    </category>
+    <category>
+        <name>WEB</name>
+        <book>
+            <title>XQuery Kick Start</title>
+            <author>James McGovern</author>
+            <author>Per Bothner</author>
+            <author>Kurt Cagle</author>
+            <author>James Linn</author>
+            <author>Vaidyanathan Nagarajan</author>
+            <year>2003</year>
+            <price>49.99</price>
+            <cover>cat3book1.jpg</cover>
+            <sold>1300</sold>
+            <description>
+                XQuery Kick Start delivers a concise introduction to the XQuery standard, 
+                and useful implementation advice for developers needing to put it into practice. 
+                The book starts by explaining the role of XQuery in the XML family of specifications, 
+                and its relationship with XPath. 
+            </description>
+        </book>
+        <book>
+            <title>Learning XML</title>
+            <author>Erik T. Ray</author>
+            <year>2003</year>
+            <price>39.95</price>
+            <cover>cat3book2.gif</cover>
+            <sold>2100</sold>
+            <description>
+                This second edition of the bestselling Learning XML provides web developers with a 
+                concise but grounded understanding of XML (the Extensible Markup Language) 
+                and its potential-- not just a whirlwind tour of XML.The author explains the important
+                and relevant XML technologies and their capabilities clearly and succinctly with plenty 
+                of real-life projects and useful examples. He outlines the elements of markup--demystifying 
+                concepts such as attributes, entities, and namespaces--and provides enough depth and 
+                examples to get started.
+            </description>
+        </book>
+    </category>
+    <category>
+        <name>SPORT</name>
+        <book>
+            <title>Eight men out</title>
+            <author>Eliot Asinof</author>
+            <year>1963</year>
+            <price>49.95</price>
+            <cover>cat4book1.jpg</cover>
+            <sold>1100</sold>
+            <description>
+                First published in 1963, Eight Men Out has become a timeless classic. 
+                Eliot Asinof has reconstructed the entire scene-by-scene story of the fantastic scandal 
+                in which eight Chicago White Sox players arranged with the nation's leading 
+                gamblers to throw the Series in Cincinnati. Mr. Asinof vividly describes the tense meetings, 
+                the hitches in the conniving, the actual plays in which the Series was thrown, 
+                the Grand Jury indictment, and the famous 1921 trial. 
+            </description>
+        </book>
+        <book>
+            <title>League of Denial</title>
+            <author>Mark Fainaru-Wada</author>
+            <author>Steve Fainaru</author>
+            <year>2003</year>
+            <price>59.00</price>
+            <cover>cat4book2.jpg</cover>
+            <sold>2500</sold>
+            <description>
+                League of Denial is a 2013 book, initially broadcast as a documentary film, 
+                about traumatic brain injury in the National Football League (NFL), 
+                particularly concussions and chronic traumatic encephalopathy (CTE). The documentary, 
+                entitled League of Denial: The NFL's Concussion Crisis, was produced by Frontline and broadcast on PBS.
+            </description>
+        </book>
+        <book>
+            <title>The Game</title>
+            <author>Ken Dryden</author>
+            <year>2003</year>
+            <price>29.95</price>
+            <cover>cat4book3.jpg</cover>
+            <sold>900</sold>
+            <description>
+                The Game is a book written by former ice hockey goaltender Ken Dryden. 
+                Published in 1983, the book is a non-fiction account of the 1978-79 Montreal Canadiens, 
+                detailing the life of a professional hockey player. The book describes the pressures of being
+                a goaltender in the NHL, and gives readers a behind-the-scenes look at a team that would 
+                eventually win the 1979 Stanley Cup.
+            </description>
+        </book>
+    </category>
+</bookstore>
